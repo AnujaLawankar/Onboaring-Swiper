@@ -39,6 +39,9 @@ const styles = StyleSheet.create({
     flex: 0.5,
     justifyContent: 'center',
     alignItems: 'center',
+    color:'blue',
+    backgroundcolor:'orange',
+
   },
 });
 
